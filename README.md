@@ -21,7 +21,7 @@ SO THAT my company can compete with other e-commerce companies
     - THEN I am able to successfully create, update, and delete data in my database
 
 ## Link to Repo:
-
+https://github.com/gilmored/e-commerce-back-end
 
 ## Link to Walkthrough:
-https://github.com/gilmored/e-commerce-back-end
+https://drive.google.com/file/d/1ESDi04ntk0PPTm33Nq0RUYcLhwcyI5tz/view
